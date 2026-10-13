@@ -1,0 +1,18 @@
+{
+  "riz": {
+    "prix": 3200,
+    "quantite": 50
+  },
+  "huile": {
+    "prix": 9500,
+    "quantite": 12
+  },
+  "sucre": {
+    "prix": 4000,
+    "quantite": 30
+  },
+  "savon": {
+    "prix": 1500,
+    "quantite": 0
+  }
+}
